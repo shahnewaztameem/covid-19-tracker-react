@@ -72,4 +72,7 @@ body {
   .app {
     flex-direction: column;
   }
+  .map {
+    margin-bottom: 20px;
+  }
 }
